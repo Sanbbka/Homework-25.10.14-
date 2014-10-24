@@ -1,0 +1,6 @@
+Rtsp://login:pass@192.168.1.125:554/video/sdfsdf/sdfsdf;
+Udp://login:pass@192.168.1.125:554/audio/sdfsdf/s÷âôûf;
+Rtsp://login:pass@192.168.1.125:552/video/sdfsf/zzzzz;
+Udp://login:pass@192.168.1.125:524/audio/we/sssss;
+Rtsp://login:pass@192.168.1.122:554/video/aa/sss;
+Udp://login:pass@192.168.0.115:522/audio/aa/sss;
